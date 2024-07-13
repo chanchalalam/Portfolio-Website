@@ -89,7 +89,8 @@ projects = [
     {
         "title": "Adavanced-Resume-Tracking-System",
         "date": "June 2024 - June 2024",
-        "link": "https://github.com/chanchalalam/Adavanced-Resume-Tracking-System.git"
+        "link": "https://github.com/chanchalalam/Adavanced-Resume-Tracking-System.git",
+        "description": "This is a project aiming to optimize the recruitment process. It integrates an advanced Applicant Tracking System with Google Gemini Pro, streamlining resume parsing, keyword matching, and candidate evaluation for an efficient end-to-end solution in talent acquisition."
 
     },
     {
