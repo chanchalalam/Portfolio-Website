@@ -115,6 +115,7 @@ for project in projects:
     if "links" in project:
         for link in project["links"]:
             st.write(f"[View Project]({link})")
+    st.write(project["description"])
 
 # Social Media Links
 st.header("Social Media")
