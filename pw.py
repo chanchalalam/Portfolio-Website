@@ -89,8 +89,7 @@ projects = [
     {
         "title": "Adavanced-Resume-Tracking-System",
         "date": "June 2024 - June 2024",
-        "link": "https://github.com/chanchalalam/Adavanced-Resume-Tracking-System.git",
-        st.write("**B.tech CSE with Specialization in Data Science (Artificial Intelligence & Machine Learning )**")
+        "link": "https://github.com/chanchalalam/Adavanced-Resume-Tracking-System.git"
 
     },
     {
