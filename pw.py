@@ -55,7 +55,7 @@ if st.button("ASK", use_container_width=True):
         response = model.generate_content(persona + prompt)
         st.write(response.text)
 
-st.write("")  # Add some spacing
+st.write("")  
 
 # Skills Section
 st.header("Skills")
