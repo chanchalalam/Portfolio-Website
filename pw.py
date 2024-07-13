@@ -113,6 +113,7 @@ projects = [
 for project in projects:
     st.subheader(project["title"])
     st.write(f"**{project['date']}**")
+    st.text(project["description"])
     if "link" in project:
         st.write(f"[View Project]({project['link']})")
     if "links" in project:
