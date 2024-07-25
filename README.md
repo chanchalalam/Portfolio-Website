@@ -10,14 +10,12 @@ Key Features
 Interactive and User-Friendly Design
 
 Streamlit Integration: The portfolio leverages Streamlit to create an intuitive and visually appealing interface, making it easy for visitors to navigate and explore.
-
 Responsive Layout: Ensures a seamless experience on desktops, tablets, and smartphones.
 
 
 AI Personal Bot
 
 Personalized Interaction: The AI bot enhances the user experience by answering questions, providing project details, and guiding users through the web page.
-
 Natural Language Processing: The bot is powered by advanced NLP models, enabling it to understand and respond to a wide range of queries naturally and accurately.
 
 
