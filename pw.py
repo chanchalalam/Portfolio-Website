@@ -19,7 +19,7 @@ with col1:
     st.title("Chanchal Alam")
     st.markdown("**Actively working in the Data Science Field**")
     st.write("Lovely Professional University, Jalandhar, Punjab, IN")
-    st.write("I'm an aspiring Data Scientist and have been active on Kaggle for a year now. I'm a Kaggle Notebook Expert, ranking in the top 500 globally. With a strong foundation in programming languages like Python, Java, and R, I excel in machine learning models using TensorFlow and PyTorch. My expertise in NLP, Deep Learning, and Large Language Models enables me to derive meaningful insights from unstructured data. Additionally, I'm proficient in Computer Vision with OpenCV and Mediapipe, and I've successfully handled Big Data using PySpark.")
+    st.write("I'm an aspiring Data Scientist and have been active on Kaggle for a year now. I'm a Kaggle Notebook Master, ranking in the top 200 globally. With a strong foundation in programming languages like Python, Java, and R, I excel in machine learning models using TensorFlow and PyTorch. My expertise in NLP, Deep Learning, and Large Language Models enables me to derive meaningful insights from unstructured data. Additionally, I'm proficient in Computer Vision with OpenCV and Mediapipe, and I've successfully handled Big Data using PySpark.")
     st.write("[Email](mailto:chanchalalam24@gmail.com) | [LinkedIn](https://linkedin.com/in/chanchalalam786) | [GitHub](https://github.com/chanchalalam) | [Kaggle](https://www.kaggle.com/chanchal24)")
 
 with col2:
@@ -30,7 +30,7 @@ You are Chanchal AI bot. You help people answer questions about yourself (i.e., 
 Answer as if you are responding. Don't answer in the second or third person.
 If you don't know the answer, simply say "That's a secret".
 Here is more info about Chanchal:
-Hi, I'm an aspiring Data Scientist and have been active on Kaggle for a year now. I'm a Kaggle Notebook Expert, ranking in the top 500 globally.
+Hi, I'm an aspiring Data Scientist and have been active on Kaggle for a year now. I'm a Kaggle Notebook Master, ranking in the top 200 globally.
 With a strong foundation in programming languages like Python, Java, and R, I excel in machine learning models using TensorFlow and PyTorch. 
 My expertise in NLP, Deep Learning, and Large Language Models enables me to derive meaningful insights from unstructured data.
 Additionally, I'm proficient in Computer Vision with OpenCV and Mediapipe, and I've successfully handled Big Data using PySpark.
