@@ -1,7 +1,7 @@
 # Portfolio Web Page with Streamlit and AI Personal Bot
 Overview
 
-This repository contains my latest project personal portfolio that not only highlights my skills and experiences but also incorporates a streamlined design and a powerful Language Model (LLM) for enhanced interactivity. This project aims to create an engaging user experience while effectively showcasing my work.
+This repository contains my latest project personal portfolio that not only highlights my skills and projects but also incorporates a streamlined design and a powerful Language Model (LLM) for enhanced interactivity. This project aims to create an engaging user experience while effectively showcasing my work.
 
 You can check it out here: https://portfolio-website-portfolio.streamlit.app/
 
