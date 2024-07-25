@@ -1,10 +1,7 @@
 # Portfolio Web Page with Streamlit and AI Personal Bot
 Overview
 
-This repository contains the source code for my portfolio web page. 
-The web page is designed to be both informative and engaging, featuring an
-AI personal bot that interacts with visitors to provide information about my projects, skills, and experience.
-
+This repository contains my latest project personal portfolio that not only highlights my skills and experiences but also incorporates a streamlined design and a powerful Language Model (LLM) for enhanced interactivity. This project aims to create an engaging user experience while effectively showcasing my work.
 Key Features
 
 Interactive and User-Friendly Design
