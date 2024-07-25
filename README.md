@@ -22,7 +22,5 @@ Natural Language Processing: The bot is powered by advanced NLP models, enabling
 Technology Stack
 
 Streamlit: For building the web application.
-
 Python: The primary programming language used for development.
-
 AI and ML Libraries: Utilized for implementing the AI bot and other functionalities.
