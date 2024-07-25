@@ -2,7 +2,8 @@
 Overview
 
 This repository contains my latest project personal portfolio that not only highlights my skills and experiences but also incorporates a streamlined design and a powerful Language Model (LLM) for enhanced interactivity. This project aims to create an engaging user experience while effectively showcasing my work.
-Key Features
+You can check it out here: https://portfolio-website-portfolio.streamlit.app/
+## Key Features
 
 Interactive and User-Friendly Design
 
@@ -16,7 +17,7 @@ Personalized Interaction: The AI bot enhances the user experience by answering q
 Natural Language Processing: The bot is powered by advanced NLP models, enabling it to understand and respond to a wide range of queries naturally and accurately.
 
 
-Technology Stack
+## Technology Stack
 
 Streamlit: For building the web application.
 Python: The primary programming language used for development.
