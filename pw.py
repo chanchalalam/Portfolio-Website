@@ -71,7 +71,7 @@ skills = {
 }
 
 for skill, proficiency in skills.items():
-    st.slider(skill, 0, 100, proficiency)
+    st.slider(skill, 0, 100, proficiency, disabled=True)
 
 # Education Section
 st.header("Education")
