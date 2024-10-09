@@ -3,7 +3,7 @@ import google.generativeai as genai
 
 # Configure the generative AI model
 genai.configure(api_key="AIzaSyBeXLsJtDU75icRNsnHBvrJsiESNW1y6BQ")
-model = genai.GenerativeModel('gemini-1.5-pro')
+model = genai.GenerativeModel('gemini-1.5-flash')
 
 # Set the page configuration
 st.set_page_config(
