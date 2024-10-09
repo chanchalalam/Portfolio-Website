@@ -2,7 +2,7 @@ import streamlit as st
 import google.generativeai as genai
 
 # Configure the generative AI model
-genai.configure(api_key)
+genai.configure(GOOGLE_API_KEY)
 model = genai.GenerativeModel('gemini-1.5-pro')
 
 # Set the page configuration
